@@ -5,6 +5,72 @@ TextureImporter:
   - first:
       213: 1578516716106110545
     second: Personnage_version_petit_0
+  - first:
+      213: -7520764261664082003
+    second: Personnage_version_petit_1
+  - first:
+      213: 58534269940944024
+    second: Personnage_version_petit_2
+  - first:
+      213: -3423088676735067011
+    second: Personnage_version_petit_3
+  - first:
+      213: -7353619635793906670
+    second: Personnage_version_petit_4
+  - first:
+      213: -2664325773572013824
+    second: Personnage_version_petit_5
+  - first:
+      213: 8128059503446380407
+    second: Personnage_version_petit_6
+  - first:
+      213: 5086132159863150014
+    second: Personnage_version_petit_7
+  - first:
+      213: -4188103446043979471
+    second: Personnage_version_petit_8
+  - first:
+      213: 212274638068554846
+    second: Personnage_version_petit_9
+  - first:
+      213: -5370216370158864809
+    second: Personnage_version_petit_10
+  - first:
+      213: -5391114451096793784
+    second: Personnage_version_petit_11
+  - first:
+      213: 5420649734402725046
+    second: Personnage_version_petit_12
+  - first:
+      213: -1025730542520425819
+    second: Personnage_version_petit_13
+  - first:
+      213: 2204239703525745853
+    second: Personnage_version_petit_14
+  - first:
+      213: 3362822245624808545
+    second: Personnage_version_petit_15
+  - first:
+      213: -78099080052389055
+    second: Personnage_version_petit_16
+  - first:
+      213: -2494746229434058265
+    second: Personnage_version_petit_17
+  - first:
+      213: 5322549296094895094
+    second: Personnage_version_petit_18
+  - first:
+      213: 4089607190965581875
+    second: Personnage_version_petit_19
+  - first:
+      213: 7265796109856722006
+    second: Personnage_version_petit_20
+  - first:
+      213: -8840700160773486778
+    second: Personnage_version_petit_21
+  - first:
+      213: 4947093557451043410
+    second: Personnage_version_petit_22
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -129,10 +195,10 @@ TextureImporter:
       name: Personnage_version_petit_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2880
-        height: 1472
+        x: 116
+        y: 997
+        width: 269
+        height: 405
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,6 +209,490 @@ TextureImporter:
       bones: []
       spriteID: 1565587079408e510800000000000000
       internalID: 1578516716106110545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_1
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 999
+        width: 272
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da73f0030c0e0a790800000000000000
+      internalID: -7520764261664082003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_2
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1008
+        width: 261
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c440fbb94ffc000800000000000000
+      internalID: 58534269940944024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_3
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1008
+        width: 280
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c5b8c1cfebe70d0800000000000000
+      internalID: -3423088676735067011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_4
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 996
+        width: 244
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214ba2307e1b2f990800000000000000
+      internalID: -7353619635793906670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_5
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 995
+        width: 243
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001825c33d9660bd0800000000000000
+      internalID: -2664325773572013824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_6
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 997
+        width: 249
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fc828dd0bacc070800000000000000
+      internalID: 8128059503446380407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_7
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 992
+        width: 244
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5555d7042959640800000000000000
+      internalID: 5086132159863150014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 518
+        width: 266
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13195f7fa1ed0e5c0800000000000000
+      internalID: -4188103446043979471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 515
+        width: 237
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c96ec98a622f200800000000000000
+      internalID: 212274638068554846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_10
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 515
+        width: 260
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75671b9f9a82975b0800000000000000
+      internalID: -5370216370158864809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_11
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 525
+        width: 271
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d86e658f9ee25b0800000000000000
+      internalID: -5391114451096793784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 516
+        width: 239
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4d3eea6340a3b40800000000000000
+      internalID: 5420649734402725046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_13
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 515
+        width: 241
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a22dc1918fd3c1f0800000000000000
+      internalID: -1025730542520425819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_14
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 515
+        width: 242
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4e670f458079e10800000000000000
+      internalID: 2204239703525745853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_15
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 521
+        width: 266
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1648f31f3052bae20800000000000000
+      internalID: 3362822245624808545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 262
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b413cec498aeef0800000000000000
+      internalID: -78099080052389055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_17
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 30
+        width: 253
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e976d5a581e06dd0800000000000000
+      internalID: -2494746229434058265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_18
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 35
+        width: 276
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbdd3d726e7dd940800000000000000
+      internalID: 5322549296094895094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_19
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 44
+        width: 261
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338f260921431c830800000000000000
+      internalID: 4089607190965581875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_20
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 36
+        width: 248
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ccc6ae01b45d460800000000000000
+      internalID: 7265796109856722006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_21
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 35
+        width: 242
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6478b573b068f4580800000000000000
+      internalID: -8840700160773486778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_petit_22
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 35
+        width: 266
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2523e72316b97a440800000000000000
+      internalID: 4947093557451043410
       vertices: []
       indices: 
       edges: []
@@ -162,6 +712,28 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Personnage_version_petit_0: 1578516716106110545
+      Personnage_version_petit_1: -7520764261664082003
+      Personnage_version_petit_10: -5370216370158864809
+      Personnage_version_petit_11: -5391114451096793784
+      Personnage_version_petit_12: 5420649734402725046
+      Personnage_version_petit_13: -1025730542520425819
+      Personnage_version_petit_14: 2204239703525745853
+      Personnage_version_petit_15: 3362822245624808545
+      Personnage_version_petit_16: -78099080052389055
+      Personnage_version_petit_17: -2494746229434058265
+      Personnage_version_petit_18: 5322549296094895094
+      Personnage_version_petit_19: 4089607190965581875
+      Personnage_version_petit_2: 58534269940944024
+      Personnage_version_petit_20: 7265796109856722006
+      Personnage_version_petit_21: -8840700160773486778
+      Personnage_version_petit_22: 4947093557451043410
+      Personnage_version_petit_3: -3423088676735067011
+      Personnage_version_petit_4: -7353619635793906670
+      Personnage_version_petit_5: -2664325773572013824
+      Personnage_version_petit_6: 8128059503446380407
+      Personnage_version_petit_7: 5086132159863150014
+      Personnage_version_petit_8: -4188103446043979471
+      Personnage_version_petit_9: 212274638068554846
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

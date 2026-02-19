@@ -5,6 +5,72 @@ TextureImporter:
   - first:
       213: -4154900569493639596
     second: grand_de_face_0
+  - first:
+      213: 4841053504475320611
+    second: grand_de_face_1
+  - first:
+      213: -2616488497700984426
+    second: grand_de_face_2
+  - first:
+      213: 2112157303267990967
+    second: grand_de_face_3
+  - first:
+      213: 8464785267964423362
+    second: grand_de_face_4
+  - first:
+      213: 498111504560108166
+    second: grand_de_face_5
+  - first:
+      213: -6622785651813586124
+    second: grand_de_face_6
+  - first:
+      213: -3705023873675070179
+    second: grand_de_face_7
+  - first:
+      213: 1776930515035107428
+    second: grand_de_face_8
+  - first:
+      213: -4422310364243015171
+    second: grand_de_face_9
+  - first:
+      213: 8899971669936812256
+    second: grand_de_face_10
+  - first:
+      213: 6371452857704158603
+    second: grand_de_face_11
+  - first:
+      213: 2800377997448657227
+    second: grand_de_face_12
+  - first:
+      213: 7139061221381903227
+    second: grand_de_face_13
+  - first:
+      213: 1514359754047816500
+    second: grand_de_face_14
+  - first:
+      213: 384617074509470984
+    second: grand_de_face_15
+  - first:
+      213: 4210378263416133581
+    second: grand_de_face_16
+  - first:
+      213: 2130927880839787556
+    second: grand_de_face_17
+  - first:
+      213: -8765296763741899457
+    second: grand_de_face_18
+  - first:
+      213: 3417991163612553110
+    second: grand_de_face_19
+  - first:
+      213: -7602773812601372547
+    second: grand_de_face_20
+  - first:
+      213: -594183949362480196
+    second: grand_de_face_21
+  - first:
+      213: 8827316299266994240
+    second: grand_de_face_22
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -129,10 +195,10 @@ TextureImporter:
       name: grand_de_face_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2816
-        height: 1536
+        x: 103
+        y: 1030
+        width: 261
+        height: 378
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,6 +209,490 @@ TextureImporter:
       bones: []
       spriteID: 45e634612f3d656c0800000000000000
       internalID: -4154900569493639596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1030
+        width: 267
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32159e86380ee2340800000000000000
+      internalID: 4841053504475320611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1027
+        width: 269
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69923a7f29d50bbd0800000000000000
+      internalID: -2616488497700984426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_3
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1030
+        width: 264
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd190b60e3ef4d10800000000000000
+      internalID: 2112157303267990967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_4
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1030
+        width: 263
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccaaf45a55f87570800000000000000
+      internalID: 8464785267964423362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_5
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1030
+        width: 260
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68237d736c5a9e600800000000000000
+      internalID: 498111504560108166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_6
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 1030
+        width: 270
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43be818e9832714a0800000000000000
+      internalID: -6622785651813586124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_7
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1029
+        width: 265
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15714dba6c159cc0800000000000000
+      internalID: -3705023873675070179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 557
+        width: 254
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460383b83ece8a810800000000000000
+      internalID: 1776930515035107428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 557
+        width: 267
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df944c4772cc0a2c0800000000000000
+      internalID: -4422310364243015171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_10
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 557
+        width: 271
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0bf99641d038b70800000000000000
+      internalID: 8899971669936812256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_11
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 557
+        width: 265
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b859a9edd92fb6850800000000000000
+      internalID: 6371452857704158603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_12
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 557
+        width: 260
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b493fbe93f0fcd620800000000000000
+      internalID: 2800377997448657227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_13
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 557
+        width: 261
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b731c324b5a031360800000000000000
+      internalID: 7139061221381903227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_14
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 556
+        width: 263
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4330b224c26140510800000000000000
+      internalID: 1514359754047816500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_15
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 556
+        width: 260
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ddfa4013f665500800000000000000
+      internalID: 384617074509470984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 87
+        width: 244
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7d1f819b44e6a30800000000000000
+      internalID: 4210378263416133581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_17
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 87
+        width: 248
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4247e631e93929d10800000000000000
+      internalID: 2130927880839787556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_18
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 87
+        width: 253
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35784ea8096b5680800000000000000
+      internalID: -8765296763741899457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_19
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 87
+        width: 252
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fdc80aad42f6f20800000000000000
+      internalID: 3417991163612553110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_20
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 87
+        width: 255
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70c048af758d7690800000000000000
+      internalID: -7602773812601372547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_21
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 87
+        width: 246
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbb20f98d801c7f0800000000000000
+      internalID: -594183949362480196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grand_de_face_22
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 85
+        width: 246
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04033d1b76de08a70800000000000000
+      internalID: 8827316299266994240
       vertices: []
       indices: 
       edges: []
@@ -162,6 +712,28 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       grand_de_face_0: -4154900569493639596
+      grand_de_face_1: 4841053504475320611
+      grand_de_face_10: 8899971669936812256
+      grand_de_face_11: 6371452857704158603
+      grand_de_face_12: 2800377997448657227
+      grand_de_face_13: 7139061221381903227
+      grand_de_face_14: 1514359754047816500
+      grand_de_face_15: 384617074509470984
+      grand_de_face_16: 4210378263416133581
+      grand_de_face_17: 2130927880839787556
+      grand_de_face_18: -8765296763741899457
+      grand_de_face_19: 3417991163612553110
+      grand_de_face_2: -2616488497700984426
+      grand_de_face_20: -7602773812601372547
+      grand_de_face_21: -594183949362480196
+      grand_de_face_22: 8827316299266994240
+      grand_de_face_3: 2112157303267990967
+      grand_de_face_4: 8464785267964423362
+      grand_de_face_5: 498111504560108166
+      grand_de_face_6: -6622785651813586124
+      grand_de_face_7: -3705023873675070179
+      grand_de_face_8: 1776930515035107428
+      grand_de_face_9: -4422310364243015171
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

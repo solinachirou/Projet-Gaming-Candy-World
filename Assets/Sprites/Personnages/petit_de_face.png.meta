@@ -5,6 +5,72 @@ TextureImporter:
   - first:
       213: -8306586271188946305
     second: petit_de_face_0
+  - first:
+      213: -3371380596360756208
+    second: petit_de_face_1
+  - first:
+      213: 7421711136367085748
+    second: petit_de_face_2
+  - first:
+      213: 1588278736447259496
+    second: petit_de_face_3
+  - first:
+      213: -663507186974146568
+    second: petit_de_face_4
+  - first:
+      213: -4290518029499661891
+    second: petit_de_face_5
+  - first:
+      213: -6960098886479223960
+    second: petit_de_face_6
+  - first:
+      213: 5583427528247611840
+    second: petit_de_face_7
+  - first:
+      213: 8422219964676142111
+    second: petit_de_face_8
+  - first:
+      213: 5516895987468274733
+    second: petit_de_face_9
+  - first:
+      213: -7224556167800015480
+    second: petit_de_face_10
+  - first:
+      213: 7676878162140991023
+    second: petit_de_face_11
+  - first:
+      213: 6553150983213431662
+    second: petit_de_face_12
+  - first:
+      213: -3247031926579136754
+    second: petit_de_face_13
+  - first:
+      213: -5852934371503622618
+    second: petit_de_face_14
+  - first:
+      213: -4216408182055695615
+    second: petit_de_face_15
+  - first:
+      213: 742736900667999147
+    second: petit_de_face_16
+  - first:
+      213: -7457138216114819436
+    second: petit_de_face_17
+  - first:
+      213: 8727030099308533304
+    second: petit_de_face_18
+  - first:
+      213: 2220456362758922028
+    second: petit_de_face_19
+  - first:
+      213: -4804583063543045214
+    second: petit_de_face_20
+  - first:
+      213: 4971889455473903916
+    second: petit_de_face_21
+  - first:
+      213: -1544077053329951467
+    second: petit_de_face_22
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -129,10 +195,10 @@ TextureImporter:
       name: petit_de_face_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2880
-        height: 1472
+        x: 123
+        y: 993
+        width: 245
+        height: 407
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,6 +209,490 @@ TextureImporter:
       bones: []
       spriteID: f7275a9ebc319bc80800000000000000
       internalID: -8306586271188946305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_1
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 990
+        width: 248
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014c54fb5337631d0800000000000000
+      internalID: -3371380596360756208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 992
+        width: 253
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b888b4e4f63ff660800000000000000
+      internalID: 7421711136367085748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_3
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 992
+        width: 251
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863ce328813ba0610800000000000000
+      internalID: 1588278736447259496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_4
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 990
+        width: 249
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffbc769abfbac6f0800000000000000
+      internalID: -663507186974146568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_5
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 993
+        width: 249
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1834595940574c0800000000000000
+      internalID: -4290518029499661891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_6
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 994
+        width: 251
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86360dd50f2c86f90800000000000000
+      internalID: -6960098886479223960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_7
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 994
+        width: 251
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1165231c15c7d40800000000000000
+      internalID: 5583427528247611840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 516
+        width: 244
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1479be5f6cb1e470800000000000000
+      internalID: 8422219964676142111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 515
+        width: 239
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c03dbbba3ff8c40800000000000000
+      internalID: 5516895987468274733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_10
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 515
+        width: 249
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8853c6651783dbb90800000000000000
+      internalID: -7224556167800015480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_11
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 515
+        width: 255
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e0e5eb300c98a60800000000000000
+      internalID: 7676878162140991023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_12
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 515
+        width: 241
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b30f1691871fa50800000000000000
+      internalID: 6553150983213431662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_13
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 514
+        width: 238
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07f5e19aa930f2d0800000000000000
+      internalID: -3247031926579136754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_14
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 513
+        width: 246
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6263ad4033336cea0800000000000000
+      internalID: -5852934371503622618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_15
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 513
+        width: 243
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b0580191f4c75c0800000000000000
+      internalID: -4216408182055695615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 37
+        width: 242
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba304e5a64bbe4a00800000000000000
+      internalID: 742736900667999147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_17
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 35
+        width: 245
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e6c735d4ce28890800000000000000
+      internalID: -7457138216114819436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_18
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 35
+        width: 249
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8365d6533a3ac1970800000000000000
+      internalID: 8727030099308533304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_19
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 37
+        width: 249
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f50852c45a0de10800000000000000
+      internalID: 2220456362758922028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_20
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 35
+        width: 248
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3a8a3d821b25db0800000000000000
+      internalID: -4804583063543045214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_21
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 36
+        width: 240
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2948081e13bff440800000000000000
+      internalID: 4971889455473903916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petit_de_face_22
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 38
+        width: 246
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515bf62d916529ae0800000000000000
+      internalID: -1544077053329951467
       vertices: []
       indices: 
       edges: []
@@ -162,6 +712,28 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       petit_de_face_0: -8306586271188946305
+      petit_de_face_1: -3371380596360756208
+      petit_de_face_10: -7224556167800015480
+      petit_de_face_11: 7676878162140991023
+      petit_de_face_12: 6553150983213431662
+      petit_de_face_13: -3247031926579136754
+      petit_de_face_14: -5852934371503622618
+      petit_de_face_15: -4216408182055695615
+      petit_de_face_16: 742736900667999147
+      petit_de_face_17: -7457138216114819436
+      petit_de_face_18: 8727030099308533304
+      petit_de_face_19: 2220456362758922028
+      petit_de_face_2: 7421711136367085748
+      petit_de_face_20: -4804583063543045214
+      petit_de_face_21: 4971889455473903916
+      petit_de_face_22: -1544077053329951467
+      petit_de_face_3: 1588278736447259496
+      petit_de_face_4: -663507186974146568
+      petit_de_face_5: -4290518029499661891
+      petit_de_face_6: -6960098886479223960
+      petit_de_face_7: 5583427528247611840
+      petit_de_face_8: 8422219964676142111
+      petit_de_face_9: 5516895987468274733
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

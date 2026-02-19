@@ -5,6 +5,72 @@ TextureImporter:
   - first:
       213: 1758513106377882531
     second: Personnage_version_grand_0
+  - first:
+      213: 7461473564151799042
+    second: Personnage_version_grand_1
+  - first:
+      213: -3084571856576650123
+    second: Personnage_version_grand_2
+  - first:
+      213: 6104422426498420791
+    second: Personnage_version_grand_3
+  - first:
+      213: 7084902830511470274
+    second: Personnage_version_grand_4
+  - first:
+      213: 525075785206867706
+    second: Personnage_version_grand_5
+  - first:
+      213: -192071147848136526
+    second: Personnage_version_grand_6
+  - first:
+      213: 1216924211297787411
+    second: Personnage_version_grand_7
+  - first:
+      213: -5045374077305580132
+    second: Personnage_version_grand_8
+  - first:
+      213: -5820333112341801800
+    second: Personnage_version_grand_9
+  - first:
+      213: -5928351828577560296
+    second: Personnage_version_grand_10
+  - first:
+      213: 4316261472873062350
+    second: Personnage_version_grand_11
+  - first:
+      213: -2662455756736259041
+    second: Personnage_version_grand_12
+  - first:
+      213: -3235151648277529362
+    second: Personnage_version_grand_13
+  - first:
+      213: 8552434985016958491
+    second: Personnage_version_grand_14
+  - first:
+      213: -8231230899261793879
+    second: Personnage_version_grand_15
+  - first:
+      213: -7859100793385699821
+    second: Personnage_version_grand_16
+  - first:
+      213: -2996854820680895650
+    second: Personnage_version_grand_17
+  - first:
+      213: -5730472955620517219
+    second: Personnage_version_grand_18
+  - first:
+      213: 3424095898478974990
+    second: Personnage_version_grand_19
+  - first:
+      213: 398749089342874936
+    second: Personnage_version_grand_20
+  - first:
+      213: 5100522295399737398
+    second: Personnage_version_grand_21
+  - first:
+      213: -8552248967425106062
+    second: Personnage_version_grand_22
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -129,10 +195,10 @@ TextureImporter:
       name: Personnage_version_grand_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2816
-        height: 1536
+        x: 120
+        y: 1028
+        width: 255
+        height: 380
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,6 +209,490 @@ TextureImporter:
       bones: []
       spriteID: 3abb58e6a5e776810800000000000000
       internalID: 1758513106377882531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_1
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1031
+        width: 269
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d5c3c8caa7c8760800000000000000
+      internalID: 7461473564151799042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_2
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1037
+        width: 248
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574e49c3d366135d0800000000000000
+      internalID: -3084571856576650123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_3
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1039
+        width: 256
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730dd52bad347b450800000000000000
+      internalID: 6104422426498420791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_4
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1029
+        width: 244
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6bbc04691a25260800000000000000
+      internalID: 7084902830511470274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_5
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1030
+        width: 240
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af62a6905a1794700800000000000000
+      internalID: 525075785206867706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_6
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 1030
+        width: 243
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b809e40f40a55df0800000000000000
+      internalID: -192071147848136526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_7
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 1029
+        width: 246
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e1af46f1263e010800000000000000
+      internalID: 1216924211297787411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 557
+        width: 247
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c959c3b120b3bf9b0800000000000000
+      internalID: -5045374077305580132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 557
+        width: 242
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b45c6c2fd50a3fa0800000000000000
+      internalID: -5820333112341801800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_10
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 558
+        width: 250
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819d812fb634abda0800000000000000
+      internalID: -5928351828577560296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_11
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 567
+        width: 248
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf9d48e0f076eb30800000000000000
+      internalID: 4316261472873062350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_12
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 557
+        width: 246
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c9a85789e0d0bd0800000000000000
+      internalID: -2662455756736259041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_13
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 555
+        width: 247
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecf5e967be6a13d0800000000000000
+      internalID: -3235151648277529362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_14
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 557
+        width: 239
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e1f8e5e4a50b670800000000000000
+      internalID: 8552434985016958491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_15
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 555
+        width: 242
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a91849ab1bc4cd80800000000000000
+      internalID: -8231230899261793879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 83
+        width: 249
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316314cb77ddee290800000000000000
+      internalID: -7859100793385699821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 89
+        width: 248
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53f5e92b680966d0800000000000000
+      internalID: -2996854820680895650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_18
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 87
+        width: 255
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a914d45354970b0800000000000000
+      internalID: -5730472955620517219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_19
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 96
+        width: 248
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0816b9f315d48f20800000000000000
+      internalID: 3424095898478974990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_20
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 90
+        width: 251
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835eac02f24a88500800000000000000
+      internalID: 398749089342874936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_21
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 89
+        width: 257
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638e2420102b8c640800000000000000
+      internalID: 5100522295399737398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_version_grand_22
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 87
+        width: 244
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fdce930ee405980800000000000000
+      internalID: -8552248967425106062
       vertices: []
       indices: 
       edges: []
@@ -162,6 +712,28 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Personnage_version_grand_0: 1758513106377882531
+      Personnage_version_grand_1: 7461473564151799042
+      Personnage_version_grand_10: -5928351828577560296
+      Personnage_version_grand_11: 4316261472873062350
+      Personnage_version_grand_12: -2662455756736259041
+      Personnage_version_grand_13: -3235151648277529362
+      Personnage_version_grand_14: 8552434985016958491
+      Personnage_version_grand_15: -8231230899261793879
+      Personnage_version_grand_16: -7859100793385699821
+      Personnage_version_grand_17: -2996854820680895650
+      Personnage_version_grand_18: -5730472955620517219
+      Personnage_version_grand_19: 3424095898478974990
+      Personnage_version_grand_2: -3084571856576650123
+      Personnage_version_grand_20: 398749089342874936
+      Personnage_version_grand_21: 5100522295399737398
+      Personnage_version_grand_22: -8552248967425106062
+      Personnage_version_grand_3: 6104422426498420791
+      Personnage_version_grand_4: 7084902830511470274
+      Personnage_version_grand_5: 525075785206867706
+      Personnage_version_grand_6: -192071147848136526
+      Personnage_version_grand_7: 1216924211297787411
+      Personnage_version_grand_8: -5045374077305580132
+      Personnage_version_grand_9: -5820333112341801800
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

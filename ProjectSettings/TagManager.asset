@@ -8,6 +8,8 @@ TagManager:
   - Monstre
   - Nourriture
   - Tourne
+  - Food
+  - PointFaible
   layers:
   - Default
   - TransparentFX

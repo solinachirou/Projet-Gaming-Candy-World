@@ -152,11 +152,24 @@ public class PlayerController : MonoBehaviour
     {
         if (tailleActuelle == Taille.Mort) return;
 
-        // Si on traverse un objet avec le tag "Nourriture"
+        // --- Pour la Nourriture ---
         if (collision.gameObject.CompareTag("Nourriture"))
         {
-            Manger(); // On appelle la fonction pour grandir/accélérer
-            Destroy(collision.gameObject); // L'objet disparaît de la carte
+            Manger(); 
+            Destroy(collision.gameObject); 
+        }
+
+        // --- NOUVEAU : Pour écraser le monstre ---
+        if (collision.gameObject.CompareTag("PointFaible"))
+        {
+            // 1. On annule la vitesse de chute et on fait rebondir le joueur !
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f); 
+            rb.AddForce(new Vector2(0f, forceSaut * 0.8f), ForceMode2D.Impulse); // Un rebond un peu moins haut qu'un saut normal
+
+            // 2. On détruit le monstre entier (qui est le "Parent" de ce point faible)
+            Destroy(collision.transform.parent.gameObject);
+
+            Debug.Log("YAY ! Monstre écrasé !");
         }
     }
 }

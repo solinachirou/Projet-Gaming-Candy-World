@@ -48,8 +48,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f5db2663bd4e1f844ad48b0540ed88d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pointA: {fileID: 0}
-  pointB: {fileID: 0}
+  pointA: {fileID: 8167126043847935392, guid: 2bb41d4fb63d7be4eab03cffa5071630, type: 3}
+  pointB: {fileID: 7297805005238693671, guid: b751aa874ab68a14084f70aac2f82316, type: 3}
   vitesse: 1
 --- !u!212 &4916907728020191192
 SpriteRenderer:

@@ -1,5 +1,7 @@
 using UnityEngine;
 using System.Collections; 
+using UnityEngine.SceneManagement;
+using TMPro; 
 
 public class PlayerController : MonoBehaviour
 {
@@ -7,6 +9,7 @@ public class PlayerController : MonoBehaviour
     public Taille tailleActuelle = Taille.Normal;
 
     [Header("Paramètres de déplacement")]
+    public static int viesActuelles = 5;
     public float vitesseMarche = 5f;
     public float vitesseCourse = 8f; // Vitesse rapide quand on mange !
     public float forceSaut = 7f;
@@ -20,6 +23,10 @@ public class PlayerController : MonoBehaviour
     private Animator anim;
     private Collider2D col; 
 
+    [Header("Interface (UI)")]
+    public TMP_Text affichageVies;
+    public GameObject ecranMort;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -29,6 +36,9 @@ public class PlayerController : MonoBehaviour
         
         vitesseActuelle = vitesseMarche;
         tailleActuelle = Taille.Normal;
+
+        if (affichageVies != null) affichageVies.text = "Vies : " + viesActuelles;
+        if (ecranMort != null) ecranMort.SetActive(false); // Cache le message de mort
     }
 
     void Update()
@@ -37,6 +47,13 @@ public class PlayerController : MonoBehaviour
 
         Avancer();
         Sauter();
+
+       
+        // Si le personnage tombe trop bas (en dessous de -15 sur l'axe Y)
+        if (transform.position.y < -15f)
+        {
+            Mourir(); 
+        }
     }
 
     void Avancer()
@@ -124,12 +141,40 @@ public class PlayerController : MonoBehaviour
 
     private void Mourir()
     {
+        // On vérifie si on n'est pas déjà en train de mourir pour éviter les bugs
+        if (tailleActuelle == Taille.Mort) return; 
+        
         tailleActuelle = Taille.Mort;
+        viesActuelles = viesActuelles - 1; // On enlève une vie
+        
+        // On met à jour le texte à l'écran !
+        if (affichageVies != null) affichageVies.text = "Vies : " + viesActuelles;
+
+        // On lance la séquence de mort
+        StartCoroutine(RoutineMort());
+    }
+
+    private IEnumerator RoutineMort()
+    {
+        // 1. On affiche le message "VOUS ÊTES MORT !"
+        if (ecranMort != null) ecranMort.SetActive(true);
+
+        // 2. On arrête le joueur (optionnel, mais ça fait propre)
         rb.linearVelocity = Vector2.zero; 
-        col.enabled = false; 
-        spriteRenderer.sortingOrder = 20; 
-        rb.AddForce(new Vector2(0f, 4f), ForceMode2D.Impulse); 
-        Destroy(gameObject, 3f); 
+
+        // 3. LA PAUSE : On attend 2 secondes pour que le joueur lise le message
+        yield return new WaitForSeconds(2f);
+
+        // 4. Après la pause, on recharge le niveau ou le menu
+        if (viesActuelles > 0)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
+        else
+        {
+            viesActuelles = 5; 
+            SceneManager.LoadScene(0); // Retour au menu principal si 0 vies
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
